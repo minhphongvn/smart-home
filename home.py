@@ -15,7 +15,7 @@ import random
 from weather import Weather
 
 #####################################
-# NHIỆM VỤ:
+# NHIỆM VỤ CẦN LÀM TIẾP THEO:
 # >>> tối ưu hóa lại phần khai báo ngôn ngữ (lang = )
 # >>> điều chỉnh tốc độ nói của bot
 # >>> mảng (Array) và random cho statement
